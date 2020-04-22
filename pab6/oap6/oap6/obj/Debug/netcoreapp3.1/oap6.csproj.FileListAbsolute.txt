@@ -1,0 +1,13 @@
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\bin\Debug\netcoreapp3.1\oap6.exe
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\bin\Debug\netcoreapp3.1\oap6.deps.json
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\bin\Debug\netcoreapp3.1\oap6.runtimeconfig.json
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\bin\Debug\netcoreapp3.1\oap6.runtimeconfig.dev.json
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\bin\Debug\netcoreapp3.1\oap6.dll
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\bin\Debug\netcoreapp3.1\oap6.pdb
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.csprojAssemblyReference.cache
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.csproj.CoreCompileInputs.cache
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.AssemblyInfoInputs.cache
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.AssemblyInfo.cs
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.dll
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.pdb
+D:\4 КУРС\oap\oap 6 u 7pab\pab6\oap6\oap6\obj\Debug\netcoreapp3.1\oap6.genruntimeconfig.cache
